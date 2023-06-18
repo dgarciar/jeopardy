@@ -1,0 +1,43 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+
+body {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 9pt;
+    background: rgb(34,126,229);
+    background: radial-gradient(circle, rgba(34,126,229,1) 0%, rgba(10,67,191,1) 100%);
+    color: white;
+    
+  }
+  
+  h1 {
+    font-family: 'Copse';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    font-size: 40pt;
+  }
+  
+  button {
+    padding: 10px 0px;
+    background-color: #8D2AB5;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 14pt;
+    letter-spacing: .6pt;
+    width: 140px;
+  }
+  
+  button:hover {
+    background-color: #74119C;
+  }
+  
+  
